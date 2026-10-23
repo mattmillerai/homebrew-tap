@@ -1,9 +1,9 @@
 class Kneejerk < Formula
   desc "Scan JS bundles for env vars, API endpoints, and referenced hostnames"
-  homepage "https://github.com/MillerMedia/Kneejerk"
-  url "https://github.com/MillerMedia/kneejerk/archive/refs/tags/v0.3.tar.gz"
-  version "0.3"
-  sha256 "3fe14d526aba31d50ce9988bf54cea0c5830e097761d775dc314334aeb5a19e7"
+  homepage "https://github.com/mattmillerai/kneejerk"
+  url "https://github.com/mattmillerai/kneejerk/archive/refs/tags/v0.3.1.tar.gz"
+  version "0.3.1"
+  sha256 "3e8794b88f7a2f310ffe2a795a502b6dd38885e97570bfa1d7cd931f932d8940"
 
   depends_on "go" => :build
 
